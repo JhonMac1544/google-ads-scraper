@@ -1,0 +1,52 @@
+[
+  {
+    "adLibraryUrl": "https://adstransparency.google.com/advertiser/AR08888592736429539329/creative/CR08436770543486631937",
+    "advertiserId": "AR08888592736429539329",
+    "advertiserName": "Niantic, Inc.",
+    "creativeId": "CR08436770543486631937",
+    "firstShown": "2023-07-04",
+    "lastShown": "2024-05-17",
+    "format": "IMAGE",
+    "previewUrl": "https://tpc.googlesyndication.com/archive/simgad/12683072185372151324",
+    "regionStats": [
+      {
+        "regionCode": "DE",
+        "regionName": "Germany",
+        "firstShown": "2023-07-04",
+        "lastShown": "2024-05-17",
+        "impressions": {
+          "lowerBound": 1000,
+          "upperBound": 2000
+        },
+        "surfaceServingStats": [
+          {
+            "surfaceCode": "YOUTUBE",
+            "surfaceName": "YouTube",
+            "impressions": {
+              "lowerBound": 1000,
+              "upperBound": 2000
+            }
+          },
+          {
+            "surfaceCode": "SEARCH",
+            "surfaceName": "Google Search",
+            "impressions": {
+              "lowerBound": 0,
+              "upperBound": 1000
+            }
+          }
+        ]
+      }
+    ],
+    "targeting": {},
+    "variations": [
+      {
+        "clickUrl": "https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo",
+        "cta": "INSTALL",
+        "description": "Catch Pokémon, battle other Trainers, raid with friends, and more in Pokémon GO",
+        "imageUrl": "https://tpc.googlesyndication.com/simgad/16977068568541754968"
+      }
+    ],
+    "startUrl": "https://adstransparency.google.com/advertiser/AR08888592736429539329"
+  }
+]
