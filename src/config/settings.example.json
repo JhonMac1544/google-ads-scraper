@@ -1,0 +1,7 @@
+{
+  "output_dir": "data",
+  "output_filename": "output.sample.json",
+  "log_level": "INFO",
+  "request_timeout_seconds": 20,
+  "max_retries": 3
+}
